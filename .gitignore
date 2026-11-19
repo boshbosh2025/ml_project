@@ -1,0 +1,16 @@
+# Environnement virtuel
+venv/
+
+# Données
+*.csv
+*.zip
+
+# Modèle sauvegardé (généré par le script)
+*.joblib
+
+# Fichiers cache et système
+__pycache__/
+*.pyc
+.DS_Store
+*:Zone.Identifier
+.ipynb_checkpoints/
